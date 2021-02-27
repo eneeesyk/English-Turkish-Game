@@ -6,10 +6,10 @@ This app provides to learn english words in fun way. You can use yourself or you
 ## PRINCIPLES :scroll:
 - Flip Card Project contains 1000 word english to turkish.
 - You have to guess the word **in 5 seconds otherwise the card will flip** and you will see the word english form.
-- If you guess the word correctly you should click the right(yellow mark) button. Because the program creates a csv file (words_that_learned.csv) and deletes the words which you already know or guess correct.
+- If you guess the word correctly you should click the right(yellow mark) button. Because the program creates a csv file (words_that_learned.csv) and deletes the words which you already know or guessed correct.
 - If you couldn't guess correctly you should click the wrong button(red cross). 
 - Every click on the right(yellow mark) button will delete the word in the csv file(words_that_learned) and the word which is you already know or guessed correct does not appear again. Therefore you can improve your english words skills 
-- If your words ends i will a update to number of words 1000 to 50k.
+- If your words ends i will do an update to number of words 1000 to 50k.
 
 
 ## Screenshots :camera:
